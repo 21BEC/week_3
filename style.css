@@ -3,10 +3,12 @@ body{
 	height: 100%;
     text-rendering: optimizeLegibility;
     font-family: 'Lato', sans-serif;
+    border: 1px solid black;
 }
 p {
 	line-height: 1.6em;
 	margin: 0 0 10px 0;
+    border: 1px solid black;
 }
 h1 h2 h3{
 	font-weight: 400;
@@ -34,6 +36,7 @@ h2 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    border: 1px solid black;
 }
 #ichigo{
     background-image: url(../img/james-sutton-198306-unsplash1.png);
@@ -44,6 +47,7 @@ h2 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    border: 1px solid black;
 }
 #luffy{
     background-image: url(../img/j-329172-unsplash.png);
@@ -54,6 +58,7 @@ h2 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    border: 1px solid black;
 }
 
 .text-justify.bg-dark.p-2{
