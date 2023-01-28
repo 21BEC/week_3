@@ -48,7 +48,7 @@
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 p-2">
       
-        <div id="chicken" class="bg-dark p-5 text-light">
+        <div id="shinigami" class="bg-dark p-5 text-light">
           <h2 class="font-weight-bold text-center bg-dark">Shinigami</h2>
           <p class="text-justify bg-dark p-2 font-weight-bold">The story follows Light Yagami, a teen genius who discovers a mysterious notebook: the "Death Note", which belonged to the shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages. The series centers around Light's subsequent attempts to use the Death Note to carry out a worldwide massacre of individuals whom he deems </p>
           <p class="text-justify bg-dark p-2 font-weight-bold">So i  recommend you to watch this anime without any delay. And make sure you learn HTML/CSS/JAVASCRIPT from platform Coursera only here you get the best Tutors from all over the world</p>
@@ -56,7 +56,7 @@
         </div>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 p-2">
-        <div id="beef" class="bg-dark p-5 text-light">
+        <div id="ichigo" class="bg-dark p-5 text-light">
           <h2 class="font-weight-bold text-center bg-dark">Ichigo</h2>
           <p class="text-justify bg-dark p-2 font-weight-bold">He was the protaganist of the anime named as BLEACH. The story follows the adventures of Ichigo Kurosaki after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki. His newfound powers force him to take on the duties of defending humans from evil spirits and guiding departed souls to the afterlife.</p>
           <p class="text-justify bg-dark p-2 font-weight-bold">So i recommend you to watch this anime without any delay. And make sure you learn HTML/CSS/JAVASCRIPT from platform Coursera only here you get the best Tutors from all over the world</p>
@@ -65,7 +65,7 @@
       </div>
  
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 p-2">
-        <div id="sushi" class="bg-dark p-5 text-light">
+        <div id="luffy" class="bg-dark p-5 text-light">
           <h2 class="font-weight-bold text-center bg-dark">Luffy</h2>
           <p class="text-justify bg-dark p-2 font-weight-bold">Luffy is the captain of the Straw Hat Pirates, and dreamt of being a pirate since childhood from the influence of his idol and mentor Red-Haired Shanks. At the age of 17, Luffy sets sail from the East Blue Sea to the Grand Line in search of the legendary treasure, One Piece, to succeed Gol D. Roger as "King of the Pirates".And he is also the son of Revolutionary army. and brother of ace and sabo</p>
           <p class="text-justify bg-dark p-2 font-weight-bold">So i recommend you to watch this anime without any delay. And make sure you learn HTML/CSS/JAVASCRIPT from platform Coursera only here you get the best Tutors from all over the world</p>
