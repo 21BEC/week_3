@@ -16,7 +16,7 @@
 
 <body>
     <!--navbar-->
-  <nav id="top" class="navbar navbar-expand-md navbar-dark bg-white">
+  <nav id="top" class="navbar navbar-expand-md navbar-white bg-transparent">
       <a class="navbar-brand font-weight-bold" href="#">Anime, Content</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
         aria-label="Toggle navigation">
